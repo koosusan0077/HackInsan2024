@@ -1,0 +1,13 @@
+@import url('./fonts.css'); /* Adjust the path as necessary */
+
+/* Other global styles */
+body {
+  margin: 0;
+  font-family: 'Roobert';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Roobert';
+}

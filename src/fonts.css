@@ -1,0 +1,28 @@
+/* fonts.css */
+
+/* Regular Weight */
+@font-face {
+    font-family: 'Roobert';
+    src: url('./fonts/roobert/RoobertRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Semi Bold Weight */
+  @font-face {
+    font-family: 'Roobert';
+    src: url('./fonts/roobert/RoobertSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  /* Bold Weight */
+  @font-face {
+    font-family: 'Roobert';
+    src: url('./fonts/roobert/RoobertBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  /* Add other weights and styles as needed */
+  
